@@ -3,7 +3,12 @@
     {
       "name": "20-Bin Medium Portable Parts Storage Case",
       "url": "https://www.harborfreight.com/20-bin-medium-portable-parts-storage-case-93928.html",
-      "threshold": 10.99
+      "threshold": 8.00
+    },
+    {
+      "name": "8-Bin Large Portable Parts Storage Case",
+      "url": "https://www.harborfreight.com/8-bin-portable-parts-storage-case-93927.html",
+      "threshold": 10.00
     }
   ]
 }
